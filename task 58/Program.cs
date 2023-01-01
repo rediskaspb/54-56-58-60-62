@@ -16,6 +16,7 @@
 // 20 81 8 6
 // 56 8 4 24
 // 10 6 24 49
+
 int ReadInt(string message)
 {
     Console.WriteLine(message);
